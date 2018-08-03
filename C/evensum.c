@@ -19,5 +19,5 @@ int main()
 	printf("\n");
 	printf("The total sum is: %d\n", sum);
 
-	return 0;
+	return 0; 
 }
